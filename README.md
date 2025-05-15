@@ -1,1 +1,1 @@
-# AIProductProtityping
+# AIProductPrototyping
